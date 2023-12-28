@@ -1,19 +1,3 @@
-Dear LLNCS user,
+Dear user,
 
-The files in this directory belong to the LaTeX2e package for
-Lecture Notes in Computer Science (LNCS) of Springer-Verlag.
-
-It consists of the following files:
-
-  readme.txt         this file
-
-  history.txt        the version history of the package
-
-  llncs.cls          the LaTeX2e document class
-
-  samplepaper.tex    a sample paper
-  fig1.eps           a figure used in the sample paper
-
-  llncsdoc.pdf       the documentation of the class (PDF version)
-
-  splncs04.bst       current LNCS BibTeX style with alphabetic sorting
+The files in this directory belong to the LaTeX2e package for Lecture Notes in Computer Science (LNCS) of Springer-Verlag with a minor modification to suit the format of Data Science and Engineering (DSE) Record (https://datascience.cmu.ac.th/library).
